@@ -1,4 +1,4 @@
-# Git Workshop- Learn Git and GitHub
+# Git Workshop- Branch version
 
 Welcome! This repository is our collaborative space to learn git. As we learn each concept, we'll build this guide together.
 
