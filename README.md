@@ -1,4 +1,6 @@
-# Git Workshop- Main version
+
+# Git Workshop- Learn Git Together
+
 
 Welcome! This repository is our collaborative space to learn git. As we learn each concept, we'll build this guide together.
 
