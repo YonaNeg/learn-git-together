@@ -1,0 +1,5 @@
+# Git Workshop - R Project .gitignore
+# Add common files to ignore below:
+
+# System files
+.DS_Store
