@@ -13,3 +13,5 @@ A separate line of development - like a copy where you can experiment safely.
 - Experiment without breaking main code
 - Work on features independently
 - Easy to undo - just delete the branch
+
+- you can delete a branch with `git branch -d <name>` when done.
