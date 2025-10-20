@@ -3,3 +3,31 @@
 
 # System files
 .DS_Store
+
+ R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Output files
+*.html
+*.pdf
+*.png
+*.jpg
+*_cache/
+*_files/
+
+# Large data files (uncomment as needed)
+# data/*.csv
+# data/*.xlsx
+# *.rds
+
+# System files
+.DS_Store
+Thumbs.db
+*~
+
+# Sensitive information
+*.env
+config/secrets.yml
